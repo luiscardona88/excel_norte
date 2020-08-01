@@ -1,0 +1,1 @@
+<?php DEFINE("RUTA_API","http://localhost:88/slim/usuarios.php/",true) ?>
